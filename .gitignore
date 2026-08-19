@@ -1,0 +1,24 @@
+# STM32CubeIDE Build Artifacts
+Debug/
+Release/
+*.elf
+*.bin
+*.hex
+*.map
+*.o
+*.d
+*.su
+.settings/
+.metadata/
+
+# Python Cache & Virtual Environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.ipynb_checkpoints/
+
+# OS Files
+.DS_Store
+Thumbs.db
